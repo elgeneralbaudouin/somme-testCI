@@ -1,0 +1,15 @@
+C:\Users\PSE\source\repos\somme\somme\bin\Debug\net6.0\somme.exe
+C:\Users\PSE\source\repos\somme\somme\bin\Debug\net6.0\somme.deps.json
+C:\Users\PSE\source\repos\somme\somme\bin\Debug\net6.0\somme.runtimeconfig.json
+C:\Users\PSE\source\repos\somme\somme\bin\Debug\net6.0\somme.dll
+C:\Users\PSE\source\repos\somme\somme\bin\Debug\net6.0\somme.pdb
+C:\Users\PSE\source\repos\somme\somme\obj\Debug\net6.0\somme.csproj.AssemblyReference.cache
+C:\Users\PSE\source\repos\somme\somme\obj\Debug\net6.0\somme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PSE\source\repos\somme\somme\obj\Debug\net6.0\somme.AssemblyInfoInputs.cache
+C:\Users\PSE\source\repos\somme\somme\obj\Debug\net6.0\somme.AssemblyInfo.cs
+C:\Users\PSE\source\repos\somme\somme\obj\Debug\net6.0\somme.csproj.CoreCompileInputs.cache
+C:\Users\PSE\source\repos\somme\somme\obj\Debug\net6.0\somme.dll
+C:\Users\PSE\source\repos\somme\somme\obj\Debug\net6.0\refint\somme.dll
+C:\Users\PSE\source\repos\somme\somme\obj\Debug\net6.0\somme.pdb
+C:\Users\PSE\source\repos\somme\somme\obj\Debug\net6.0\somme.genruntimeconfig.cache
+C:\Users\PSE\source\repos\somme\somme\obj\Debug\net6.0\ref\somme.dll
