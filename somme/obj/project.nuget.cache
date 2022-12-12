@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ho68xjygKO3MqR++vH5LD7151+8yyTiY1xBPCvUTZxvZBlBhAJLPfUTk784iddMufaofvWhFGSB5LRT5ZpKlCA==",
+  "dgSpecHash": "NSb6tk63Kez30n7+KxtO9qM2e84E2bIoQ605K/yNVTXwZie5uje2IXjVCItpZn8KxoYQwhV0MVdJDO6a/l+PqA==",
   "success": true,
   "projectFilePath": "C:\\Users\\PSE\\source\\repos\\somme\\somme\\somme.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\PSE\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
   "logs": []
 }

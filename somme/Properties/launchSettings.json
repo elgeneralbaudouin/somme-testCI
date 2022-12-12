@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "somme": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
